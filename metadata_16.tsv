@@ -1,0 +1,16 @@
+SampleID	Region	Subject	Group
+k5-11-V34	V3-V4	166/59	Control
+k5-39-V34	V3-V4	274/4	Control
+k5-2-V34	V3-V4	222/14	Control
+k5-30-V34	V3-V4	958/74	Control
+k5-44-V34	V3-V4	918/98	Control
+k3-39-V34	V3-V4	274/4	Group3
+k3-31-V34	V3-V4	268/3	Group3
+k3-17-V34	V3-V4	264/1	Group3
+k3-4-V34	V3-V4	183/50	Group3
+k3-21-V34	V3-V4	268/5	Group3
+k8-49-V34	V3-V4	258/3	Group8
+k8-40-V34	V3-V4	183/53 => 183/51	Group8
+k8-26-V34	V3-V4	958/76	Group8
+k8-29-V34	V3-V4	183/49	Group8
+k8-25-V34	V3-V4	166/63	Group8
